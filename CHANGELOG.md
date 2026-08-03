@@ -1,6 +1,10 @@
 ## [Unreleased]
 * no unreleased changes *
 
+## 7.1.6 / 2026-07-30
+### Fixed
+* Support patch releases of Rails after the current minor revision 7.1.6.0
+
 ## 7.1.5 / 2024-11-18
 ### Fixed
 * Use minitest for testing

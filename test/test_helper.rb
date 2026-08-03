@@ -4,7 +4,6 @@ require 'rails'
 require 'active_record'
 
 require 'minitest/autorun'
-require 'minitest/unit'
 
 require File.dirname(__FILE__) + '/../lib/activemodel-caution'
 

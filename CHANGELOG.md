@@ -1,6 +1,11 @@
 ## [Unreleased]
 * no unreleased changes *
 
+## 8.0.5 / 2026-07-30
+### Fixed
+* Test against ruby 4.0
+* Support patch releases of Rails after the current minor revision 8.0.5.0
+
 ## 8.0.4 / 2025-11-24
 * Support patch releases of Rails after the current minor revision 8.0.4.0
 

@@ -4,14 +4,18 @@ file safety:
     comments:
     reviewed_by: brian.shand
     safe_revision: d427bd0ab9302c9e275529b7e49e6c49b10757c4
+  ".github/dependabot.yml":
+    comments:
+    reviewed_by: brian.shand
+    safe_revision: f863f8ced268e16724a470dfb02c3a5cadbb4071
   ".github/workflows/lint.yml":
     comments:
     reviewed_by: brian.shand
-    safe_revision: a89191bc9471f8333e4c93b670131f3259c0046c
+    safe_revision: cdbb4f4b40941175f156c7a743941c5102b2c891
   ".github/workflows/test.yml":
     comments:
     reviewed_by: brian.shand
-    safe_revision: a89191bc9471f8333e4c93b670131f3259c0046c
+    safe_revision: cdbb4f4b40941175f156c7a743941c5102b2c891
   ".gitignore":
     comments:
     reviewed_by: brian.shand
@@ -23,7 +27,7 @@ file safety:
   CHANGELOG.md:
     comments:
     reviewed_by: brian.shand
-    safe_revision: 2dfcf19601bf5b36b6240827615197c974ccefbc
+    safe_revision: fc7642b6bafb8953bc14ff19d90343750817db55
   CODE_OF_CONDUCT.md:
     comments:
     reviewed_by: brian.shand
@@ -43,11 +47,15 @@ file safety:
   Rakefile:
     comments:
     reviewed_by: brian.shand
-    safe_revision: fa31b25843398d902bbbde52a8c12aca8805fb70
+    safe_revision: f8d6273a23c1f5f77c5705e92f951e105397281a
+  SECURITY.md:
+    comments:
+    reviewed_by: brian.shand
+    safe_revision: f863f8ced268e16724a470dfb02c3a5cadbb4071
   activemodel-caution.gemspec:
     comments:
     reviewed_by: brian.shand
-    safe_revision: a89191bc9471f8333e4c93b670131f3259c0046c
+    safe_revision: f863f8ced268e16724a470dfb02c3a5cadbb4071
   lib/active_model/caution/included.rb:
     comments:
     reviewed_by: brian.shand
@@ -59,7 +67,7 @@ file safety:
   lib/active_model/caution/version.rb:
     comments:
     reviewed_by: brian.shand
-    safe_revision: 2dfcf19601bf5b36b6240827615197c974ccefbc
+    safe_revision: fc7642b6bafb8953bc14ff19d90343750817db55
   lib/active_model/cautioner.rb:
     comments:
     reviewed_by: brian.shand
@@ -131,4 +139,4 @@ file safety:
   test/test_helper.rb:
     comments:
     reviewed_by: brian.shand
-    safe_revision: b0428cf00c1de41a4e17dcee4dbbc609309ec54e
+    safe_revision: f8d6273a23c1f5f77c5705e92f951e105397281a
